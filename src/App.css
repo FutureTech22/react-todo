@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css?family=Gloria+Hallelujah');
+
+#title {
+	text-align: center;
+	font-family: 'Gloria Hallelujah', cursive;
+
+}
+
+.background {
+	background-image: url("http://www.powerpointhintergrund.com/uploads/by-alcalamichi-on-deviantart-paper-background-29.jpeg");
+	height: 1000px;
+}
+
+p.todoContent {
+	background:white;
+	border: 2px solid rgb(132, 205, 242);
+	width: 200px;
+	height: 50px;
+	text-align: center;
+	margin: 0px auto;
+	box-shadow: 10px 10px 5px grey;
+	font-family: 'Gloria Hallelujah', cursive;
+	margin-bottom: 15px;
+	margin-top: 15px
+}
+
+.closebtn {
+	font-size: 18px;
+	color: red;
+	margin-left: 49.5%;
+	display:block;
+	background-color: white;
+	width: 15px;
+	border: 2px solid rgb(132, 205, 242);
+	box-shadow: 5px 5px 5px grey;
+	text-align:center;
+
+}
+
+.noteInput {	
+	display: inline;
+	font-family: 'Gloria Hallelujah', cursive;
+	background:white;
+	border: 2px solid rgb(132, 205, 242);
+	height: 50px;
+	margin-right: 15px;
+	margin-left: 45%;
+	box-shadow: 10px 10px 5px grey;
+	margin-bottom: 100px;
+
+}
+
+button.todoButton {
+	margin:0px auto;
+	display: inline;
+	font-family: 'Gloria Hallelujah', cursive;
+	font-size: 12px;
+	background:white;
+	border: 2px solid rgb(132, 205, 242);
+	box-shadow: 10px 10px 5px grey;
+}
+
+.formContainer{
+
+}
